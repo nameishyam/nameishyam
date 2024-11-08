@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Gowtham</h1>
-<h3 align="center">Student at VRESC | BTech in Computer Engineering</h3>
+<h3 align="center">Student at VRESC | BTech in Computer Science (AI & ML)</h3>
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
