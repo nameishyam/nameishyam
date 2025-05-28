@@ -57,8 +57,6 @@
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https: //github-readme-stats.vercel.app/api/top-langs?username=nameishyam& show_icons=true&locale=en&layout=compact" alt="nameishyam" /></p>
-
 [![Syam's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nameishyam&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameishyam&" alt="nameishyam" /></p
