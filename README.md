@@ -1,69 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shyam Gowtham</h1>
-<h3 align="center">Student at VRESC | BTech in Computer Science (AI & ML)</h3>
+<h1 align="center">Hi there 👋, I'm Syam Gowtham!</h1>
+<h3 align="center">MERN Stack & Machine Learning Enthusiast | Geek for C++ | Open Source Contributor</h3>
 
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
-- 💬 Ask me about **C, Python, Java, HTML, CSS, JS, ML Algos**
+Thrilled to connect with you here! As a web developer, I'm adept in MERN and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
-- 📫 How to reach me **geddamgowtham4@gmail.com**
+- 💡 I enjoy solving LeetCode (300+ problems), building web apps, and mentoring budding developers.
+- 🔭 I’m currently working on my **CP Skills**
+- 📫 How to reach me: [geddamgowtham4@gmail.com](mailto:geddamgowtham4@gmail.com)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1iPig4J6lAxQXE29T6HXvjwrDWDbdqdL3/view?usp=sharing)
+- 📧 Know more about me: [Portfolio](https://portfolio-syam.vercel.app)
 
-- ⚡ I am passionate **in web develolopment and machine learning**
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/nameishyam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nameishyam/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>  
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="40" height="40"/> 
-    </a>
+  <a href="https://www.linkedin.com/in/nameishyam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syam Gowtham" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/geddamgowtham4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandini805" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/nameishyam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/geddamgowtham" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
 </p>
 
 
-### :fire: My Stats :
-
-[![Syam's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nameishyam&theme=dark&year=2025)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameishyam&" alt="nameishyam" /></p
-
->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameishyam&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
+## 💻 Tech Stack:
+
+| Category                     | Skills and Icons                                                            |
+|------------------------------|---------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  |
+| **Frontend Development**     | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) |
+| **Backend Development**      | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=cloudflare&logoColor=white)|
+| **AI/ML Technologies**       | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Databases**                | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Visualization**       | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)|
+
+<br>
+
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nameishyam&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="nameishyam"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nameishyam&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="nameishyam" height="195"  />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameishyam&theme=dark&border_radius=10" alt="nameishyam" />
+</p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## Thank you for Visiting!
+
+Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
