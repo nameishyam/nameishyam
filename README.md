@@ -11,8 +11,6 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1iPig4J6lAxQXE29T6HXvjwrDWDbdqdL3/view?usp=sharing)
 - 📧 Know more about me: [Portfolio](https://portfolio-syam.vercel.app)
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🌐 Connect with me:
 
 <p align="left">
@@ -39,8 +37,6 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 <br>
 
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -52,8 +48,6 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameishyam&theme=dark&border_radius=10" alt="nameishyam" />
 </p>
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## Thank you for Visiting!
 
