@@ -41,12 +41,9 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nameishyam&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="nameishyam"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nameishyam&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="nameishyam" height="195"  />
 </p>
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameishyam&theme=dark&border_radius=10" alt="nameishyam" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nameishyam&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="nameishyam" height="195"  />
 </p>
 
 ## 💻 LeetCode Stats
