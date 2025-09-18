@@ -49,6 +49,24 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameishyam&theme=dark&border_radius=10" alt="nameishyam" />
 </p>
 
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nameishyam?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nameishyam&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" />
+</div>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nameishyam&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Shyam's%20Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
 ## Thank you for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
