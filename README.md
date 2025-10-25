@@ -3,6 +3,8 @@
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nameishyam&label=Profile%20views&color=0e75b6&style=flat" alt="nameishyam" /> </p>
+
 Thrilled to connect with you here! As a web developer, I'm adept in MERN and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
 - 💡 I enjoy solving LeetCode (300+ problems), building web apps, and mentoring budding developers.
