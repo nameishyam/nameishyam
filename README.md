@@ -66,9 +66,19 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nameishyam&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" />
-</div>
+<p align="center">
+  <a href="https://github.com/nameishyam">
+    <img src="https://github-trophies.vercel.app/?username=nameishyam&theme=gruvbox&row=1&column=1&title=LongTimeUser&no-bg=true&no-frame=true" alt="LongTimeUser" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=nameishyam&theme=gruvbox&row=1&column=1&title=Commits,PullRequest,Repositories&no-bg=true&no-frame=true" alt="Commits,PR,Repos" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=nameishyam&theme=gruvbox&row=1&column=1&title=PullRequest,Repositories&no-bg=true&no-frame=true" alt="PullRequest,Repos" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=nameishyam&theme=gruvbox&row=1&column=1&title=Repositories&no-bg=true&no-frame=true" alt="Repositories" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=nameishyam&theme=gruvbox&row=1&column=1&title=Stars&no-bg=true&no-frame=true" alt="Stars" />
+  </a>
+</p>
 
 ## Thank you for Visiting!
 
