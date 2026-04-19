@@ -16,10 +16,18 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nameishyam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syam Gowtham" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/geddamgowtham4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandini805" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/nameishyam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/geddamgowtham" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nameishyam" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/geddamgowtham4" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/nameishyam" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/geddamgowtham" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+  </a>
 </p>
 
 
