@@ -15,20 +15,14 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 
 ## 🌐 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nameishyam" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/geddamgowtham4" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/nameishyam" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/geddamgowtham" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-  </a>
-</p>
+<table>
+<tr>
+<td><a href="https://www.linkedin.com/in/nameishyam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
+<td><a href="https://www.hackerrank.com/profile/geddamgowtham4"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a></td>
+<td><a href="https://leetcode.com/u/nameishyam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a></td>
+<td><a href="https://www.geeksforgeeks.org/user/geddamgowtham"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a></td>
+</tr>
+</table>
 
 
 
