@@ -10,7 +10,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 - 💡 I enjoy solving LeetCode (300+ problems), building web apps, and mentoring budding developers.
 - 🔭 I’m currently working on my **CP Skills**
 - 📫 How to reach me: [geddamgowtham4@gmail.com](mailto:geddamgowtham4@gmail.com)
-- 📄 Know about my experiences: [Resume](https://1drv.ms/b/c/83b0306afe03827f/EYK6WFXvuMtGr9_4LXV9_7YBHY2k7o0kVPshbhOuVe69Hw?e=zhqR1w)
+- 📄 Know about my experiences: [Resume](https://1drv.ms/b/c/83b0306afe03827f/IQBqTrDNUX5bSpcECjQtHPdzAZX_b7xx9WbZ0CRVzLUgFx4?e=fYZzRU)
 - 📧 Know more about me: [Portfolio](https://portfolio-syam.vercel.app)
 
 ## 🌐 Connect with me:
