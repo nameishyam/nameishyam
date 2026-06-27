@@ -18,9 +18,9 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 <table>
 <tr>
 <td><a href="https://www.linkedin.com/in/nameishyam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
-<td><a href="https://www.hackerrank.com/profile/geddamgowtham4"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a></td>
-<td><a href="https://leetcode.com/u/nameishyam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a></td>
-<td><a href="https://www.geeksforgeeks.org/user/geddamgowtham"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a></td>
+<td><a href="https://x.com/nameishyam_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a></td>
+<td><a href="https://www.instagram.com/nameishyam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a></td>
+  <td><a href="https://www.reddit.com/user/Lost-Possible-6981"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40"/></a></td>
 </tr>
 </table>
 
@@ -63,7 +63,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nameishyam?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/nameishyam?theme=dark&font=Michroma" alt="LeetCode Stats"/>
 </div>
 
 ## 🏆 GitHub Trophies
