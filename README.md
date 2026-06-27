@@ -53,7 +53,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nameishyam&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nameishyam&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nameishyam&theme=radical&layout=compact&exclude_lang=java+r" />
 </div>
 
 ###
